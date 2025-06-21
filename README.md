@@ -38,7 +38,6 @@ Using powerful visual storytelling, this study aims to understand how countries 
 - **Female participation** has increased post-1992, though medal efficiency varies across regions.
 - **Athletics** and **Swimming** consistently dominate the overall medal count.
 - Several countries, especially in the **Winter Games**, display irregular participation trends.
-- Nations like the **United States** and **Norway** have shown consistent improvement in medal performance over time.
 
 ---
 
