@@ -1,11 +1,11 @@
-# 🏅 Olympic Games Performance Analysis (Post-1992)
+# Olympic Games Performance Analysis (Post-1992)
 
 This project presents a comprehensive Exploratory Data Analysis (EDA) of the Olympic Games dataset, focusing on participation trends, medal performance, gender representation, and country-wise efficiency — all filtered for games held after 1992.  
 Using powerful visual storytelling, this study aims to understand how countries perform, where gaps exist, and how strategic focus can improve outcomes in future Olympics.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Analyze how athlete participation relates to medal wins across countries and sports.
 - Examine gender trends and representation in Olympic events.
@@ -16,26 +16,22 @@ Using powerful visual storytelling, this study aims to understand how countries 
 
 ---
 
-## 📊 Key Visualizations
+## Key Visualizations
 
-- 🎯 **Dumbbell Chart**  
+- **Dumbbell Chart**  
   Highlights the significant disparity between athlete participation and medal achievements among countries. Reveals performance gaps and medal inefficiency.
-
-- 🎻 **Violin Plot**  
+- **Violin Plot**  
   Identifies countries that underperform or lack consistency in either the Summer or Winter Games, based on participation distribution.
-
-- 📈 **Line Chart**  
+- **Line Chart**  
   Tracks whether a country's medal tally has been improving or deteriorating over time, and whether a sport shows consistent growth or decline.
-
-- 🟢 **Area Chart**  
+- **Area Chart**  
   Shows male vs female participation trends across years, visualizing progress toward gender balance.
-
-- 📊 **Stacked Bar Chart**  
+- **Stacked Bar Chart**  
   Demonstrates how certain sports are heavily dominated by a few countries, while others show more balanced competition.
 
 ---
 
-## 🧠 Summary Insights
+## Summary Insights
 
 - Countries like **Mexico** and **Czech Republic** demonstrate high medal efficiency with fewer participants.
 - Sports such as **Canoeing** (Summer) and **Nordic Combined** (Winter) show signs of decline.
@@ -46,7 +42,7 @@ Using powerful visual storytelling, this study aims to understand how countries 
 
 ---
 
-## 📌 Dataset Information
+## Dataset Information
 
 The analysis is based on a historical Olympic Games dataset from Kaggle, covering all modern Games from **1896 to 2016**.  
 To ensure relevance and consistency, the analysis is limited to entries **from 1992 onward**.
@@ -59,7 +55,7 @@ To ensure relevance and consistency, the analysis is limited to entries **from 1
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python 3.x
 - Google Colab (Cloud-based Jupyter environment)
